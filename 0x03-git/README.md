@@ -1,1 +1,1 @@
-My read me in 0x03-git
+my README.md in this directory
